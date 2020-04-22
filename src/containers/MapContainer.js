@@ -222,7 +222,7 @@ class MapContainer extends Component {
             <
             GoogleMapReact bootstrapURLKeys = {
                 {
-                    key: "AIzaSyBJF4WoYpfUOKdMWb9VM6fRQNGw5c4ieRk",
+                    key: "API_KEY",
                     libraries: ["places", "directions"],
                 }
             }
